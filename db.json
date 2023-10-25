@@ -1,7 +1,4 @@
 {
-  "farm": [
-    {"id":1, "type":"teste", "locale":"Mucuri - BA", "name": "fazenda Cacoal", "width":350, "heigth":1000, "created_at":"03-06-23" }    
-  ],
 
   "tree": [
     {"id":1, "name":"Eucalipto", "genotype":"euro-lis-0354", "name": "Especie em desenvolviemnto pelos cientistas da FTG Suíça, está sendo testada em diferentes fazendas pelo Brasil", "width":350, "heigth":1000, "created_at":"03-06-23 10:12:15" }    
